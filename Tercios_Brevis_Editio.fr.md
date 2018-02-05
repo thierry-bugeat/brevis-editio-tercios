@@ -534,7 +534,7 @@ Les deux camps ont droit d'effectuer un tour de combat. L'attaquant résoud en p
 
 **Jet d'Attaque**: Il faut lancer autant de dés que la valeur de "Combat" de l'unité, modifiée de manière appropriée par tout bonus malus. Tout résultat égal ou supérieur à la valeur de "Défense" de l'ennemi contre notre type d'unité, est un succès et compte comme un dommage.
 
-> Combat x D6 >= Défense (Infanterie ou Cacalerie)
+> Combat x D6 >= Défense (Infanterie ou Cavalerie)
 
 **Résister aux dommages**: L'unité attaquée doit maintenant tenter de se remettre des dommages infligés. Elle lance autant de dés que sa valeur de "Courage", augmentée ou diminuée selon les bonus malus qui peuvent s'appliquer. Le résultat à obtenir aux dés est 5+:
 
@@ -844,16 +844,3 @@ Malus
 |--------------:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1  malus       |1  |1  |2  |2  |3  |3  |
 |2+ malus       |1  |1  |1  |1  |1  |1  |
-
-# Conversion de ce document 
-
-Sous Linux Debian, installez le package **pandoc**
-
-
-    apt-get install pandoc
-
-## Conversion en fichier LibreOffice
-
-
-    pandoc Tercios_Brevis_Editio.fr.md -o Tercios_Brevis_Editio.fr.odt
-    
