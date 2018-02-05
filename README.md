@@ -1,4 +1,4 @@
-# Brevis Editio Tercios
+# Brevis Editio Tercios - Version Française
 
 Brevis Editio Tercios est une version résumée, synthétisée et libre de Liber Militum Tercios. C'est une façon idéale d'apprendre ou de tester le système de jeu.
 
