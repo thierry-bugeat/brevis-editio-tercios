@@ -6,6 +6,8 @@ Brevis Editio Tercios est une version résumée, synthétisée et libre de Liber
 
 * [Version Française](Tercios_Brevis_Editio.fr.md)
 
+![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/images/couverture.small.jpg "Tercios Brevis Editio")
+
 Vous pouvez trouver les versions Espagnoles & Anglaises en téléchargement à partir des pages suivantes:
 * [Version Espagnole](http://released.elkraken.es/brevis-editio/)
 * [Version Anglaise](http://released.elkraken.es/en/brevis-editio/)
