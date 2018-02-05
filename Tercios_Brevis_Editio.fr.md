@@ -212,6 +212,8 @@ Malus
 
 Les défenses de l'unité sont similaires aux valeurs. Celles-ci reflètent la vulnérabilité aux attaques des types de troupes en question: Infanterie, Cavalerie, Salves et Artillerie.
 
+![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/divers/divers1.jpg "Tercios Brevis Editio")
+
 Contrairement aux valeurs précédentes, les valeurs de défense ne changent pas, elles restent fixes.
 
 Une valeur élevée signifie que l'unité est résistante aux attaques des unités de ce type. Vous découvrirez que c'est le cas des unités de piquiers attaquées par la cavalerie.
@@ -727,6 +729,8 @@ Palatin / Protestants
 
 Lorsqu'un régiment est marqué d'une ou plusieurs icônes, elles indiquent pour qu'elles factions ces régiments sont disponibles. S'il n' y a pas d'icône, cela signifie qu'ils sont communs et disponibles pour n'importe quelle armée.
 
+![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/divers/divers3.jpg "Tercios Brevis Editio")
+
 22
 
 ----------
@@ -796,9 +800,7 @@ Voici quelques indications avec lesquelles vous pouvez avoir une certaine libert
 
 **Orientation**: Selon le résultat de 1D6, la bataille se joue dans le sens de la largeur (1-4) ou de la longueur (5-6) de la table:
 
-...
-...
-...
+![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/divers/divers4.jpg "Tercios Brevis Editio")
 
 **Déploiement**: Les deux joueurs jettent un dé. Celui qui obtient le plus grand nombre choisit sa zone de déploiement. En cas d'égalité les dés sont relancés.
 
@@ -808,9 +810,11 @@ Le joueur qui gagne le jet de déploiement est le premier à déployer un régim
 
 **Score**: Les points sont obtenus en fonction du nombre d'unités détruites, 2 points pour les Escadrons et 1 point pour les autres unités.
 
-Escadron: 2 points
+![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/divers/divers5.jpg "Tercios Brevis Editio")
+Escadron: **2 points**
 
-Cavalerie, Compagnie et Artillerie: 1 point
+![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/divers/divers6.jpg "Tercios Brevis Editio")
+Cavalerie, Compagnie et Artillerie: **1 point**
 
 Le jeu est terminé si:
 **A la fin du cinquième tour**, un joueur a une avance de 5 points ou plus.
