@@ -97,7 +97,7 @@ Les dimensions sont données en centimètres:
 
 |Type                |Largeur|Profondeur|
 |:------------------:|:-----:|:--------:|
-|Escadron du 3e carré|12     |12        |
+|Tercio              |12     |12        |
 |Autres formations   |12     |6         |
 |Cavalerie           |8      |4         |
 |Grande Cavalerie    |8      |8         |
@@ -493,12 +493,12 @@ Les éléments de terrain peuvent affecter le tir de différentes façons.
 
 Le seule façon d'entrer au corps-à-corps est de lancer l'ordre "Attaque". Lorsque cela se produit, nous suivons la séquence suivante:
 
-Mouvement de charge.
-L'attaquant résout son combat.
-Le défenseur tente de résister.
-Le défenseur résout son combat.
-L'attaquant tente de résister.
-Résolution.
+* Mouvement de charge.
+* L'attaquant résout son combat.
+* Le défenseur tente de résister aux dommages.
+* Le défenseur résout son combat.
+* L'attaquant tente de résister aux dommages.
+* Résolution.
 
 ## La charge
 
@@ -756,6 +756,12 @@ Lorsqu'un régiment est marqué d'une ou plusieurs icônes, elles indiquent pour
 ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/armees/armee4.jpg "Tercios Brevis Editio")
 
 26
+
+----------
+
+![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/armees/armee5.jpg "Tercios Brevis Editio")
+
+27
 
 ----------
 
