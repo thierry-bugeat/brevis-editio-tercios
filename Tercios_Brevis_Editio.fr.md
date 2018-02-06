@@ -718,7 +718,7 @@ Des organigrammes plus spécifiques seront disponibles dans les prochains suppl�
 
 ## Belligérants
 
-Nous incluons les belligérants suivants pour former une armée de l'une des grandes puissances de la Guerre de Trente Ans. Elles sont identifiées par leur icône:
+Nous incluons les belligérants suivants pour former une armée de l'une des grandes puissances de la Guerre de Trente Ans. Ils sont identifiés par leur icône:
 
 * Monarchie Espagnole
 * Royaume de Suède
