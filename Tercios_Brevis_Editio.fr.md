@@ -708,7 +708,7 @@ Portée en fonction de l'arme:
 
 # Les armées
 
-Dans **Tercios**, pour mener des batailles équilibrées, nous utilisons un système classique de "points" pour composer notre armée. Nous ajoutons à notre armée des régiments pour un certain nombre de points. Cette valeur correspond à la qualité des troupes choisies. En additionnant le coût de toutes nos unités, nous devons respecter la limite convenue avec notre adversaire.
+Dans **Tercios**, pour mener des batailles équilibrées, nous utilisons un système classique de "points" pour composer notre armée. Nous ajoutons à notre armée des régiments pour un certain nombre de points. Ces points correspondent à la qualité des troupes choisies. En additionnant le coût de toutes nos unités, nous obtenons un total qui doit respecter la limite convenue avec notre adversaire.
 
 Nous recommandons 7 points d'armée pour débuter et jusqu'à 12 points lorsque vous maîtrisez la règle.
 
