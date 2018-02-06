@@ -716,18 +716,18 @@ Chaque type de régiment est limité à un certain nombre, et dans le cas des r�
 
 Des organigrammes plus spécifiques seront disponibles dans les prochains suppléments et sur notre site web: http://release.elkraken.es
 
-## Factions
+## Belligérants
 
-Nous incluons les factions suivantes pour former une armée de l'une des grandes puissances de la Guerre de Trente Ans. Elles sont identifiées par leur icône:
+Nous incluons les belligérants suivants pour former une armée de l'une des grandes puissances de la Guerre de Trente Ans. Elles sont identifiées par leur icône:
 
-Empire Espagnol
-Empire Suédois
-Royaume de France
-Saint-Empire romain germanique
-Royaume d'Angleterre
-Palatin / Protestants
+* Monarchie Espagnole
+* Royaume de Suède
+* Royaume de France
+* Saint-Empire romain germanique
+* Royaume d'Angleterre
+* Palatin / Protestants
 
-Lorsqu'un régiment est marqué d'une ou plusieurs icônes, elles indiquent pour qu'elles factions ces régiments sont disponibles. S'il n' y a pas d'icône, cela signifie qu'ils sont communs et disponibles pour n'importe quelle armée.
+Lorsqu'un régiment est marqué d'une ou plusieurs icônes, elles indiquent pour quels belligérants ces régiments sont disponibles. S'il n'y a pas d'icône, cela signifie qu'ils sont communs et disponibles pour n'importe quelle armée.
 
 ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/divers/divers3.jpg "Tercios Brevis Editio")
 
