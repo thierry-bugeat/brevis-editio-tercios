@@ -720,12 +720,12 @@ Des organigrammes plus spécifiques seront disponibles dans les prochains suppl�
 
 Nous incluons les belligérants suivants pour former une armée de l'une des grandes puissances de la Guerre de Trente Ans. Ils sont identifiés par leur icône:
 
-* Monarchie Espagnole
-* Royaume de Suède
-* Royaume de France
-* Saint-Empire romain germanique
-* Royaume d'Angleterre
-* Palatin / Protestants
+* ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/divers/monarchie_espagnole.jpg "Tercios Brevis Editio") Monarchie Espagnole
+* ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/divers/royaume_de_suede.jpg "Tercios Brevis Editio") Royaume de Suède
+* ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/divers/royaume_de_france.jpg "Tercios Brevis Editio") Royaume de France
+* ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/divers/saint_empire.jpg "Tercios Brevis Editio") Saint-Empire romain germanique
+* ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/divers/royaume_angleterre.jpg "Tercios Brevis Editio") Royaume d'Angleterre
+* ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/divers/palatin.jpg "Tercios Brevis Editio") Palatin / Protestants
 
 Lorsqu'un régiment est marqué d'une ou plusieurs icônes, elles indiquent pour quels belligérants ces régiments sont disponibles. S'il n'y a pas d'icône, cela signifie qu'ils sont communs et disponibles pour n'importe quelle armée.
 
