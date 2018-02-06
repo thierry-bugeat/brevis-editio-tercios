@@ -753,6 +753,12 @@ Lorsqu'un régiment est marqué d'une ou plusieurs icônes, elles indiquent pour
 
 ----------
 
+![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/armees/armee4.jpg "Tercios Brevis Editio")
+
+26
+
+----------
+
 # La bataille
 
 Disputer une bataille doit toujours rester moment spécial, dans lequel nous apprécions la vue de nos figurines que nous avons peintes si soigneusement. Bien que nous devions respecter les règles du jeu, à tout moment nous devons nous efforcer de jouer avec un esprit sportif et chevaleresque.
