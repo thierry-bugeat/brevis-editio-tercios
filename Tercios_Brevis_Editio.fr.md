@@ -785,7 +785,7 @@ Lorsqu'un régiment est marqué d'une ou plusieurs icônes, elles indiquent pour
 
 # La bataille
 
-Disputer une bataille doit toujours rester moment spécial, dans lequel nous apprécions la vue de nos figurines que nous avons peintes si soigneusement. Bien que nous devions respecter les règles du jeu, à tout moment nous devons nous efforcer de jouer avec un esprit sportif et chevaleresque.
+Disputer une bataille doit toujours rester un moment spécial, dans lequel nous apprécions la vue de nos figurines que nous avons peintes si soigneusement. Bien que nous devions respecter les règles du jeu, à tout moment nous devons nous efforcer de jouer avec un esprit sportif et chevaleresque.
 
 ## La table de jeu
 
@@ -863,18 +863,4 @@ Le jeu est terminé si:
 
 ----------
 
-Valeurs
-
-Bonus
-
-|Valeur Initiale| 1 | 2 | 3 | 4 | 5 | 6 |
-|--------------:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1  bonus       | 1 | 3 | 4 | 6 | 7 | 9 |
-|2+ bonus       | 2 | 4 | 6 | 8 |10 |12 |
-
-Malus
-
-|Valeur Initiale|1  |2  |3  |4  |5  |6  |
-|--------------:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1  malus       |1  |1  |2  |2  |3  |3  |
-|2+ malus       |1  |1  |1  |1  |1  |1  |
+![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/divers/feuille_reference.jpg "Tercios Brevis Editio")
