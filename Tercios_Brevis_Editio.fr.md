@@ -292,21 +292,26 @@ Les cartes d'ordres ne peuvent pas être modifiées durant la phase d'action, r�
 
 Chaque carte d'ordre fait agir l'unité différemment:
 
-![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/cartes/attention.jpg "Tercios Brevis Editio") **Attention**: Avec cet ordre il est possible d'effectuer 2 des actions suivantes sans toutefois répéter la même action: Déplacer, Réorganiser (enlever le Désordre), Orienter (changer l'orientation de l'unité) ou Tirer. 
+![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/cartes/attention.jpg "Tercios Brevis Editio") 
+**Attention**: Avec cet ordre il est possible d'effectuer 2 des actions suivantes sans toutefois répéter la même action: Déplacer, Réorganiser (enlever le Désordre), Orienter (changer l'orientation de l'unité) ou Tirer. 
 
 Pendant l'exécution de cet ordre l'unité subit un malus au "Tir".
 
-![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/cartes/attaquer.jpg "Tercios Brevis Editio") **Attaque**: Faire un mouvement vers une unité ennemie. Si l'unité rentre en contact avec la cible il y a combat, sinon elle doit s'en approcher le plus possible.
+![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/cartes/attaquer.jpg "Tercios Brevis Editio") 
+**Attaque**: Faire un mouvement vers une unité ennemie. Si l'unité rentre en contact avec la cible il y a combat, sinon elle doit s'en approcher le plus possible.
 
 Si au moment de l'activation il n'y a pas d'unité ennemi visible, aucune action ne sera entreprise par l'unité. Cela représente la confusion qui reigne au sein de l'unité à qui on a donné l'ordre d'attaquer alors qu'elle ne sait pas où se trouve l'ennemi. 
 
 Avec cet ordre nous bénéficions d'un bonus aux valeurs de "Vitesse" et de "Combat".
 
-![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/cartes/courir.jpg "Tercios Brevis Editio") **Courir**: L'unité met tous ses efforts pour bouger le plus rapidement possible. Sa vitesse est doublée. Cependant elle ne peut pas tirer ou chercher le combat avec cet ordre.
+![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/cartes/courir.jpg "Tercios Brevis Editio") 
+**Courir**: L'unité met tous ses efforts pour bouger le plus rapidement possible. Sa vitesse est doublée. Cependant elle ne peut pas tirer ou chercher le combat avec cet ordre.
 
-![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/cartes/tirer.jpg "Tercios Brevis Editio") **Tir**: L'ordre est donné d'ouvrir le feu sur l'ennemi. Avec cet ordre nous disposons de la pleine puissance de feu, mais nous ne pouvons pas bouger.
+![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/cartes/tirer.jpg "Tercios Brevis Editio") 
+**Tir**: L'ordre est donné d'ouvrir le feu sur l'ennemi. Avec cet ordre nous disposons de la pleine puissance de feu, mais nous ne pouvons pas bouger.
 
-![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/cartes/resister.jpg "Tercios Brevis Editio") **Résister**: L'unité cherche à se regrouper. Si le test d'ordre est réussi, 1 marqueur d'usure est retiré. Si nous avons un seul marqueur, cet ordre n'a pas d'effet.
+![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/cartes/resister.jpg "Tercios Brevis Editio") 
+**Résister**: L'unité cherche à se regrouper. Si le test d'ordre est réussi, 1 marqueur d'usure est retiré. Si nous avons un seul marqueur, cet ordre n'a pas d'effet.
 
 ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/images/illustration5.jpg "Tercios Brevis Editio")
 
