@@ -30,7 +30,7 @@ Droit d'auteur (c)2015 Abián Suárez Hernández et Rayco Suárez Hernández
 
 * [Introduction](#introduction) : page 03
 * [Eléments du jeu](#eléments-du-jeu) : page 04
-* [Procédure](#procédure) : page 09
+* [Séquence de jeu](#séquence-de-jeu) : page 09
 * [Mouvement](#mouvement) : page 12
 * [Tir](#tir) : page 14
 * [Combat](#combat) : page 16
@@ -253,7 +253,7 @@ Bien sûr une table de jeu est également nécessaire. Une table standard de 120
 
 ----------
 
-# Procédure
+# Séquence de jeu
 
 La bataille est divisée en tours de jeu partagés par les joueurs. A chaque tour, ils vont alterner l'activation de leurs unités jusqu'à ce que toutes aient eu l'occasion d'agir.
 
