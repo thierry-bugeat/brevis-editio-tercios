@@ -24,3 +24,8 @@ Sous Linux Debian, installez le package **pandoc**
 
     pandoc Tercios_Brevis_Editio.fr.md -o Tercios_Brevis_Editio.fr.odt
     
+## Conversion en fichier PDF
+
+
+    apt-get install pandoc texlive-xetex
+    pandoc Tercios_Brevis_Editio.fr.md -o Tercios_Brevis_Editio.fr.pdf
