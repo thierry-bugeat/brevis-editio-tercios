@@ -29,3 +29,10 @@ Sous Linux Debian, installez le package **pandoc**
 
     apt-get install pandoc texlive-xetex
     pandoc Tercios_Brevis_Editio.fr.md -o Tercios_Brevis_Editio.fr.pdf
+    
+    pandoc \
+        --latex-engine=xelatex \
+        -V papersize=a4 \
+        -V colorlinks \
+        -V geometry:"top=1cm, bottom=2cm, left=1cm, right=1cm" \
+        Tercios_Brevis_Editio.fr.md -o Tercios_Brevis_Editio.fr.pdf
