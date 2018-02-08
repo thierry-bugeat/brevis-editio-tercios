@@ -152,7 +152,7 @@ Pour les grandes batteries, nous recommandons l'utilisation d'au moins 2 canons 
 
 Chaque unité possède une série de valeurs qui définissent son efficacité dans certains domaines. Celles-ci sont reflétées dans les tables de référence avec lesquelles les listes d'armée sont créées. Une valeur élevée signifie que l'unité est efficace dans ce domaine, alors qu'une valeur faible indique le contraire.
 
-Parfois ces valeurs ne concernent pas tant la qualité des troupes que leur nombre. Certaines troupes, aussi grandes que soient leurs talents au combat, peuvent avoir une valeur inférieure en raison de leur petit nombre.
+Parfois ces valeurs ne concernent pas tant la qualité des troupes que leur nombre. Certaines troupes, aussi grands que soient leurs talents au combat, peuvent avoir une valeur inférieure en raison de leur petit nombre.
 
 Les valeurs sont les suivantes:
 
@@ -294,7 +294,7 @@ Chaque carte d'ordre fait agir l'unité différemment:
 
 ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/cartes/attention.jpg "Tercios Brevis Editio") 
 
-**Attention**: Avec cet ordre il est possible d'effectuer 2 des actions suivantes sans toutefois répéter la même action: Déplacer, Réorganiser (enlever le Désordre), Orienter (changer l'orientation de l'unité) ou Tirer. 
+**Attention**: Avec cet ordre il est possible d'effectuer 2 des actions suivantes sans toutefois répéter la même action: Bouger (Effectuer un mouvement), Réorganiser (enlever le Désordre), Orienter (changer l'orientation de l'unité) ou Tirer. 
 
 Pendant l'exécution de cet ordre l'unité subit un malus au "Tir".
 
@@ -322,7 +322,7 @@ Avec cet ordre nous bénéficions d'un bonus aux valeurs de "Vitesse" et de "Com
 
 ## Test d'ordre
 
-Une unité qui n'a pas de marqueur d'usure exécute automatiquement les ordres qu'elle reçoit. Il suffit de l'activer pour retourner sa carte et effectuer les actions permises par son ordre.
+Une unité qui n'a pas de marqueur d'usure exécute automatiquement l'ordre qu'elle reçoit. Il suffit de l'activer pour retourner sa carte et effectuer les actions permises par son ordre.
 
 Si l'unité n'est pas "Fraîche", un **Test d'ordre** est requis. Sinon l'ordre est perdu et l'unité ne peut pas être activée.
 
@@ -338,9 +338,7 @@ Lancez autant de D6 que la valeur de "Discipline" de l'unité. Pour réussir le 
 
 Quand une unité ennemie interagit avec l'une des nôtres, nous pouvons essayer de réagir aussi longtemps que nôtre unité n'a pas encore agit durant ce tour. L'ennemi est considéré comme interagissant avec nous quand il s'approche à moins de 3'' de notre "Centre avant" ou quand il déclare une charge sur notre unité avec l'ordre "Attaque". Il n'y a aucune obligation de réagir. Nous pouvons conserver la carte assignée à notre unité pour une activation ultérieure durant ce tour.
 
-Réagir nécessite un **Test d'Ordre** même si l'unité est "Fraîche". Si le test est un échec l'ordre est perdu.
-
-Si le test est réussi, la carte d'ordre de l'unité est révélée, et celle-ci agit en conséquence.
+Réagir nécessite un **Test d'Ordre** même si l'unité est "Fraîche". Si le test est un échec l'ordre est perdu. Si le test est réussi, la carte d'ordre de l'unité est révélée, et celle-ci agit en conséquence.
 
 **Attention**: Il est possible de changer l'orientation de l'unité ou tirer. Il faut garder à l'esprit que le tir souffre d'un malus.
 
@@ -370,7 +368,7 @@ C'est ce que nous faisons volontairement lorsque nous activons une unité avec l
 
 Pour effectuer un mouvement nous utilisons la procédure suivante:
 
-1. Nous vérifions qu'une ligne imaginaire tracée depuis le "Centre Avant" de l'unité et la destination finale de ce même point ne traverse pas d'unités (amies ou ennemies), ni d'éléments de terrain impraticable. Dans le cas contraire le mouvement n'est pas possible.
+1. Nous vérifions qu'une ligne imaginaire tracée depuis le "Centre Avant" de l'unité et la destination finale de ce même point ne traverse pas d'unités (amies ou ennemies), ni d'éléments de terrain infranchissable. Dans le cas contraire le mouvement n'est pas possible.
 
 2. En utilisant comme axe de pivot notre "Centre Avant", nous réorientons l'unité dans la direction désirée. Le mouvement n'est pas possible si la réorientation fait plus de 90º.
 
