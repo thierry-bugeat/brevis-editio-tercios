@@ -114,15 +114,15 @@ Vous trouverez à la page suivante les schémas des unités pour le 15mm et le 2
 
 ----------
 
-Exemples de bases pour des figurines 28mm
+**Exemples de bases pour des figurines 28mm**
 
 ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/schemas/schema1.jpg "Tercios Brevis Editio")
 
-Compatibilité des bases pour des figurines 28mm
+**Compatibilité des bases pour des figurines 28mm**
 
 ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/schemas/schema2.jpg "Tercios Brevis Editio")
 
-Exemples de bases pour des figurines 15mm
+**Exemples de bases pour des figurines 15mm**
 
 ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/schemas/schema3.jpg "Tercios Brevis Editio")
 
@@ -130,11 +130,9 @@ Exemples de bases pour des figurines 15mm
 
 ----------
 
-Compatibilité des bases pour des figurines 15mm
+**Compatibilité des bases pour des figurines 15mm**
 
 ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/schemas/schema4.jpg "Tercios Brevis Editio")
-
-Bases de 4cm de front
 
 Les unités de troupes possèdent quatre points cardinaux appelés "Centres". Ceux-ci sont au centre de chaque côté de la base.
 
@@ -192,14 +190,14 @@ En fonction de l'application de ces bonus malus on obtient:
 
 Le tableau suivant montre la progression des bonus malus:
 
-Bonus
+**Bonus**
 
 |Valeur Initiale| 1 | 2 | 3 | 4 | 5 | 6 |
 |--------------:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1  bonus       | 1 | 3 | 4 | 6 | 7 | 9 |
 |2+ bonus       | 2 | 4 | 6 | 8 |10 |12 |
 
-Malus
+**Malus**
 
 |Valeur Initiale|1  |2  |3  |4  |5  |6  |
 |--------------:|:-:|:-:|:-:|:-:|:-:|:-:|
