@@ -138,7 +138,7 @@ Bases de 4cm de front
 
 Les unités de troupes possèdent quatre points cardinaux appelés "Centres". Ceux-ci sont au centre de chaque côté de la base.
 
-Ces points centraux sont ceux que nous utiliserons pour mesurer les distances, pour vérifier les lignes de visée ou pour faire des déplacements. C'est pourquoi nous pouvons dire qu'en général, il est plus important de savoir où se trouvent les centres que l'espace occupé par la base.
+Ces points centraux sont ceux que nous utilisons pour mesurer les distances, pour vérifier les lignes de vues ou pour faire des déplacements. C'est pourquoi nous pouvons dire qu'en général, il est plus important de savoir où se trouvent les centres que l'espace occupé par la base.
 
 ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/schemas/schema5.jpg "Tercios Brevis Editio")
 
@@ -235,11 +235,11 @@ Ces marqueurs peuvent être de n'importe quel type, des pions imprimés ou tout 
 **Usure:** Dans ce jeu la détérioration de l'unité est mesurée en points d'usure.
 En fonction du nombre de marqueurs d'usure sur l'unité nous pouvons dire qu'elle est:
 
-**Fraiche:** Quand elle n'a pas de marqueur d'usure.
+* **Fraiche:** Quand elle n'a pas de marqueur d'usure.
 
-**A la limite:** Quand elle a autant de marqueurs d'usure que sa valeur d'"Endurance". Une unité dans ces conditions subit un malus au "Combat" et au "Tir".
+* **A la limite:** Quand elle a autant de marqueurs d'usure que sa valeur d'"Endurance". Une unité dans ces conditions subit un malus au "Combat" et au "Tir".
 
-**En Désordre:** Sur le théâtre de guerre de l'époque, aller à la bataille en désordre, sans l'abri de la formation, pouvait mener à une fin tragique. Une défense disciplinée est nécessaire pour protéger les unités des attaques ennemies.
+* **En Désordre:** Sur le théâtre de guerre de l'époque, aller à la bataille en désordre, sans l'abri de la formation, pouvait mener à une fin tragique. Une défense disciplinée est nécessaire pour protéger les unités des attaques ennemies.
 
 Certains événements peuvent conduire l'unité à l'état de "En Désordre". **Lorsqu'une unité est "En désordre", elle souffre d'un malus à sa valeur de "Courage".**
 
@@ -300,7 +300,7 @@ Pendant l'exécution de cet ordre l'unité subit un malus au "Tir".
 
 ![Tercios Brevis Editio](http://thierry.bugeat.free.fr/misc/Tercios_Brevis_Editio/cartes/attaquer.jpg "Tercios Brevis Editio") 
 
-**Attaque**: Faire un mouvement vers une unité ennemie. Si l'unité rentre en contact avec la cible il y a combat, sinon elle doit s'en approcher le plus possible.
+**Attaquer**: Faire un mouvement vers une unité ennemie. Si l'unité rentre en contact avec la cible il y a combat, sinon elle doit s'en approcher le plus possible.
 
 Si au moment de l'activation il n'y a pas d'unité ennemi visible, aucune action ne sera entreprise par l'unité. Cela représente la confusion qui reigne au sein de l'unité à qui on a donné l'ordre d'attaquer alors qu'elle ne sait pas où se trouve l'ennemi. 
 
@@ -336,15 +336,15 @@ Lancez autant de D6 que la valeur de "Discipline" de l'unité. Pour réussir le 
 
 ## Réactions
 
-Quand une unité ennemie interagit avec l'une des nôtres, nous pouvons essayer de réagir aussi longtemps que nôtre unité n'a pas encore agit durant ce tour. L'ennemi est considéré comme interagissant avec nous quand il s'approche à moins de 3'' de notre "Centre avant" ou quand il déclare une charge sur notre unité avec l'ordre "Attaque". Il n'y a aucune obligation de réagir. Nous pouvons conserver la carte assignée à notre unité pour une activation ultérieure durant ce tour.
+Quand une unité ennemie interagit avec l'une des nôtres, nous pouvons essayer de réagir aussi longtemps que nôtre unité n'a pas encore agit durant ce tour. L'ennemi est considéré comme interagissant avec nous quand il s'approche à moins de 3'' de notre "Centre avant" ou quand il déclare une charge sur notre unité avec l'ordre "Attaquer". Il n'y a aucune obligation de réagir. Nous pouvons conserver la carte assignée à notre unité pour une activation ultérieure durant ce tour.
 
 Réagir nécessite un **Test d'Ordre** même si l'unité est "Fraîche". Si le test est un échec l'ordre est perdu. Si le test est réussi, la carte d'ordre de l'unité est révélée, et celle-ci agit en conséquence.
 
 **Attention**: Il est possible de changer l'orientation de l'unité ou tirer. Il faut garder à l'esprit que le tir souffre d'un malus.
 
-**Attaque**: Si l'unité réagit avec une "Attaque" face à une "Attaque" ennemie, elle fait alors une contre-charge. Les deux unités se rencontrent à mi-chemin, où un combat est mené et dans lequel les unités bénéficient des avantages de leur ordre.
+**Attaquer**: Si l'unité réagit par "Attaquer" à un ordre "Attaquer" ennemi, elle fait alors une contre-charge. Les deux unités se rencontrent à mi-chemin, où un combat est mené et dans lequel les unités bénéficient des avantages de leur ordre.
 
-Si par contre l'unité réagit par une "Attaque" face à un mouvement de l'ennemi dans son voisinage, elle lance alors une attaque d'interception. L'attaque a lieu au point le plus proche de la trajectoire ennemie avec l'unité. Si notre unité est repoussée au corps-à-corps, l'ennemi peut continuer son activation sinon elle s'arrête à ce stade.
+Si par contre l'unité réagit avec l'ordre "Attaquer" face à un mouvement de l'ennemi dans son voisinage, elle lance alors une attaque d'interception. L'attaque a lieu au point le plus proche de la trajectoire ennemie avec l'unité. Si notre unité est repoussée au corps-à-corps, l'ennemi peut continuer son activation sinon elle s'arrête à ce stade.
 
 **Courir**: Garder nos troupes prêtes à se déplacer pour échapper rapidement au danger. Nous changeons l'orientation de l'unité pour qu'elle s'éloigne le plus loin possible de l'unité qui déclenche la réaction, et nous la déplaçons d'au moins sa valeur de "Vitesse" non modifiée. Notre valeur de "Vitesse" bénéficie d'un double bonus "Vitesse++"
 
@@ -364,7 +364,7 @@ Tout déplacement que nous faisons avec nos unités sur le champ de bataille est
 
 ## Mouvement d'activation
 
-C'est ce que nous faisons volontairement lorsque nous activons une unité avec l'ordre "Attention", "Attaque" ou "Courir"
+C'est ce que nous faisons volontairement lorsque nous activons une unité avec l'ordre "Attention", "Attaquer" ou "Courir"
 
 Pour effectuer un mouvement nous utilisons la procédure suivante:
 
@@ -499,7 +499,7 @@ Les éléments de terrain peuvent affecter le tir de différentes façons.
 
 # Combat
 
-Le seule façon d'entrer au corps-à-corps est de lancer l'ordre "Attaque". Lorsque cela se produit, nous suivons la séquence suivante:
+Le seule façon d'entrer au corps-à-corps est de lancer l'ordre "Attaquer". Lorsque cela se produit, nous suivons la séquence suivante:
 
 * Mouvement de charge.
 * L'attaquant résout son combat.
@@ -510,11 +510,11 @@ Le seule façon d'entrer au corps-à-corps est de lancer l'ordre "Attaque". Lors
 
 ## La charge
 
-Une unité qui reçoit l'ordre "Attaque" doit, dans la mesure du possible, charger une unité ennemie. Si plusieurs unités ennemies sont éligibles, le joueur peut choisir librement sa cible.
+Une unité qui reçoit l'ordre "Attaquer" doit, dans la mesure du possible, charger une unité ennemie. Si plusieurs unités ennemies sont éligibles, le joueur peut choisir librement sa cible.
 
 Déclarer une charge sur une unité ennemie va lui donner la possibilité d'exécuter une réaction si les conditions s'y prêtent.
 
-Pour pouvoir exécuter le mouvement de la charge, il faut respecter toutes les règles de mouvement habituelles. Notre valeur de "Vitesse" (Augmentée par l'ordre "Attaque"), doit nous permettre d'atteindre, depuis notre "Centre avant", le "Centre" ennemi le plus proche.
+Pour pouvoir exécuter le mouvement de la charge, il faut respecter toutes les règles de mouvement habituelles. Notre valeur de "Vitesse" (Augmentée par l'ordre "Attaquer"), doit nous permettre d'atteindre, depuis notre "Centre avant", le "Centre" ennemi le plus proche.
 
 Notre unité s'arrête dès qu'elle entre en contact avec l'ennemi. Les unités ne doivent pas être alignées ou repositionnées de quelque manière que ce soit. Elles restent simplement dans la postition qui résulte du mouvement de charge.
 
